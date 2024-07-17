@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pontiako Radiofono</string>
+    <string name="live_broadcast">Working in foreground…</string>
+
+    <!-- Website url -->
+    <string name="website_url">file:///android_asset/radio.html</string>
+    <!--  This is Admob banner. Test AD: ca-app-pub-3940256099942544/6300978111-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--  This is Admob ID. Test ID: ca-app-pub-3940256099942544~3347511713-->
+    <string name="ad_unit_id">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
